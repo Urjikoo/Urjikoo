@@ -15,6 +15,6 @@ checkout some of my projects.
 
 - 🔭 I’m currently working on Javascript, MongoDB, CSS, HTML
 
-- 📫 You can reach me at dev.haji@gmail.com
+- 📫 You can reach me at dev.haji1@gmail.com
 - 😄 Pronouns: She/her
 
